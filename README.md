@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudecon5
+- 👋 Hi, I’m Sudipta Priyam aka @Sudecon5
 - 👀 I’m interested in Data Science, GEN AI and Agentic AI
 - 🌱 I’m currently learning Machine Learning and DeepLearning
 - 💞️ I’m looking to collaborate on innovative projects involving machine learning and web service deployment
