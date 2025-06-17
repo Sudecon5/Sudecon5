@@ -27,9 +27,9 @@
 ---
 
 ### 🔥 **Latest Projects**
-- [Restaurant Concept Generator](https://github.com/sudecon5/restaurant_concept_generator) - AI-powered restaurant idea generator.
-- [Project 2](https://github.com/sudecon5/project2) - Short description.
-- [Project 3](https://github.com/sudecon5/project3) - Short description.
+- [Restaurant Concept Generator](https://github.com/sudecon5/restaurant_concept_generator) - AI-powered restaurant idea generator that gives restaurant name suggestion and menu items. It uses a LLM model OLLAMA mistral to give the output to the users based on the input. The model has been deployed in streamlit app. 
+- [Medical_Insurance_Cost](https://github.com/Sudecon5/medical_insurance) - A Machine Learning backed model that estimates the cost of Health insurance.
+- [House Price Prediction](https://github.com/Sudecon5/house-prediction) - An application based on statistical modeling that gives a seemless experience to users to estimate the price of property.
 
 ---
 
